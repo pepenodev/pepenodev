@@ -26,7 +26,7 @@ _    _  _   _  _____   ___  ___  ___ _____
  \/  \/ \_| |_/ \___/ \_| |_/\_|  |_/ \___/
 ```
 
-
+<div align="center">
 I got into this for one simple reason: **I wanted to understand how things work**.  
 Not the what, but the *why*. That curiosity pulled me deep into software —  
 and I'm still in that process of discovery, because I've only scratched the first layer.  
@@ -35,7 +35,7 @@ There's always something underneath that reminds you how much is left to learn.
 🎓 **Cross-Platform Application Development** — Los Salesianos La Cuesta  
 💼 Currently building things at **redborder**, breaking some along the way,  
 and learning from both.
-
+</div>
 ---
 
 ```
