@@ -19,9 +19,6 @@
 
 ## whoami
 
-```bash
-$ cat about.txt
-```
 
 I got into this for one simple reason: **I wanted to understand how things work**.  
 Not the what, but the *why*. That curiosity pulled me deep into software —  
