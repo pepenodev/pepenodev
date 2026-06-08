@@ -9,8 +9,6 @@
 ╚═╝  ╚═╝╚══════╝╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝
 ```
 
-# <span style="color:red">**SOFTWARE DEVELOPER @ REDBORDER**</span>
-
 ![Software Developer @ Redborder](https://img.shields.io/badge/SOFTWARE%20DEVELOPER-%40%20redborder-red?style=for-the-badge&labelColor=000000&color=cc0000)
 
 </div>
