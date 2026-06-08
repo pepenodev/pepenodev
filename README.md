@@ -17,8 +17,14 @@
 
 ---
 
-## whoami
-
+<div align="center">
+```
+\ \        /  |   |   _ \      \      \  | _ _| 
+ \ \  \   /   |   |  |   |    _ \    |\/|   |  
+  \ \  \ /    ___ |  |   |   ___ \   |   |   |  
+   \_/\_/    _|  _| \___/  _/    _\ _|  _| ___|
+```
+</div>
 
 I got into this for one simple reason: **I wanted to understand how things work**.  
 Not the what, but the *why*. That curiosity pulled me deep into software —  
@@ -30,8 +36,14 @@ There's always something underneath that reminds you how much is left to learn.
 and learning from both.
 
 ---
-
-## stack
+<div align="center">
+```
+___|  __ __|     \      ___|  |  / 
+\___ \     |      _ \    |      ' /  
+      |    |     ___ \   |      . \  
+_____/    _|   _/    _\ \____| _|\_\
+```
+</div>
 
 <div align="center">
 
@@ -39,7 +51,9 @@ and learning from both.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -61,7 +75,14 @@ and learning from both.
 
 ---
 
-## projects
+<div align="center">
+```
+  _ \    _ \    _ \       |  ____|   ___| __ __|   ___|  
+ |   |  |   |  |   |      |  __|    |        |   \___ \  
+ ___/   __ <   |   |  \   |  |      |        |         | 
+_|     _| \_\ \___/  \___/  _____| \____|   _|   _____/ 
+```
+</div>
 
 > *Portfolio under construction — that's how it always starts.*
 
