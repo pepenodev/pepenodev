@@ -16,7 +16,7 @@
 ---
 
 
-# <span style="color:red">**WHOIAM**</span>
+# <span style="color:red">**WHOAMI**</span>
 
 
 I got into this for one simple reason: **I wanted to understand how things work**.  
